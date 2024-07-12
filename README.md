@@ -20,7 +20,7 @@ The following tools and libraries were utilized in this project:
 1. Python: The programming language used for the entire analysis.
 2. Pandas: For data manipulation and analysis.
 3. NumPy: For numerical operations.
-4. Matplotlib: For creating static, interactive, and animated visualizations.
+4. Matplotlib: For creating customized visualizations.
 5. Seaborn: For statistical data visualization.
 
 ***Analysis Steps***
